@@ -1,0 +1,17 @@
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\bin\Debug\net6.0\SnorlaxAPI.exe
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\bin\Debug\net6.0\SnorlaxAPI.deps.json
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\bin\Debug\net6.0\SnorlaxAPI.runtimeconfig.json
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\bin\Debug\net6.0\SnorlaxAPI.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\bin\Debug\net6.0\SnorlaxAPI.pdb
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.csproj.AssemblyReference.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.AssemblyInfoInputs.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.AssemblyInfo.cs
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.csproj.CoreCompileInputs.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.csproj.CopyComplete
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\refint\SnorlaxAPI.dll
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.pdb
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\SnorlaxAPI.genruntimeconfig.cache
+C:\Users\jack_\OneDrive\Desktop\Repos\Pokemon\SnorlaxAPI\SnorlaxAPI\obj\Debug\net6.0\ref\SnorlaxAPI.dll

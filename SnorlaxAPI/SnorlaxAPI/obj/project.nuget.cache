@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJj4lli8qeeeBqEzxCMvIq+ttpctdXt7fpRX8ymZKy+DwK3AuYgc8tWhwC7V7NSvVfC3eEZWknemMPBa3NDW5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jack_\\OneDrive\\Desktop\\Repos\\Pokemon\\SnorlaxAPI\\SnorlaxAPI\\SnorlaxAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jack_\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
